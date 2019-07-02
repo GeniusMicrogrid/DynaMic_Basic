@@ -1,0 +1,12 @@
+,BESS Outstation settings,PV Outstation settings,SCADA Master settings,SCADA outstation settings
+IP1,48,48,1.60E+02,n/a
+IP2,26,26,3.60E+01,
+IP3,87,87,5.80E+01,
+IP4,213,214,2.54E+02,
+DNP3 port,18000,18000,1.80E+04,
+DNP3 Master Address,12345,12340,3.00E+00,
+DNP3 outstation Address,54321,54320,1.00E+00,
+Analogue statues channel number,7,6,,
+Analogue control channel number,6,7,,
+Digital status channel number,1,1,,
+Digital control channel number,0,0,,

@@ -1,0 +1,11 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+LC_Status,Double,Network,on,FALSE,FALSE
+LC_Pwr,Double,Network,on,FALSE,FALSE
+LC_Re_Pwr,Double,Network,on,FALSE,FALSE
+LC_Vol,Double,Network,on,FALSE,FALSE
+LC_Freq,Double,Network,on,FALSE,FALSE
+LC_BESS_SOC,Double,Network,on,FALSE,FALSE
+LC_Error,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved8,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved9,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved10,Double,Network,on,FALSE,FALSE
