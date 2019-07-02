@@ -123,7 +123,6 @@ Additional license options available at https://utrf.tennessee.edu/industry/samp
 	<Property Name="varPersistentID:{33E889BA-11F3-4759-AC9C-D591F668FC0E}" Type="Ref">/MGCC/MGCC_DataLog/Lib/MGCC.lvlib/b_MGCC_DataLog_Req_Conn_MGCC</Property>
 	<Property Name="varPersistentID:{33F3DAAF-1DFC-4829-8F3C-25A2EF0972EF}" Type="Ref">/PV LC/Lib/DNP3_Outstation_Template.lvlib/Lib/OS_Data_Variables.lvlib/OS_Analog_Control.lvlib/LC_Analog_Reserved15</Property>
 	<Property Name="varPersistentID:{34B29B04-F076-44E7-B6C5-81A67C6CAC3E}" Type="Ref">/MGCC/MGCC_BlkStart/Lib/MGCC_BlkStart_Output.lvlib/b_MGCC_BlkStart_Output_PV_status</Property>
-	<Property Name="varPersistentID:{34FD8455-C964-47B5-9230-B3DCC7FAFA8B}" Type="Ref"></Property>
 	<Property Name="varPersistentID:{350D7C09-C6B0-4BF9-A55D-A825649AA14E}" Type="Ref"></Property>
 	<Property Name="varPersistentID:{35423BC1-3D51-443C-AD0C-BAE20D4C6447}" Type="Ref"></Property>
 	<Property Name="varPersistentID:{3556E73D-F483-4753-81AA-AA868CB6C8F8}" Type="Ref">/MGCC/MGCC_Commun/Lib/DNP3_Master_Station_MGCC.lvlib/Lib/DNP3_Master_Control_Variables.lvlib/MS_TX_Status_Analog</Property>
@@ -3914,6 +3913,9 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="LC_BESS_global.vi" Type="VI" URL="../BESS_LC/LC_BESS_global.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8.vi"/>
+			<Item Name="MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86.lvgen/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_000.vi"/>
+			<Item Name="MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86.lvgen/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_001.vi"/>
 			<Item Name="MGCC_MdlMgmt_string_to_complex.vi" Type="VI" URL="../Model Management/Sub-VIs/MGCC_MdlMgmt_string_to_complex.vi"/>
 			<Item Name="MGCC_StaEst_load_complex.vi" Type="VI" URL="../State Estimation/Sub-VIs/MGCC_StaEst_load_complex.vi"/>
 			<Item Name="nidnp3lvapi.dll" Type="Document" URL="/&lt;nishared&gt;/DNP3/nidnp3lvapi.dll"/>
@@ -4287,29 +4289,6 @@ AddOutputFilter chunkFilter
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="MCStatic_36913153632_1e6ad96140824169305d556de171d12e.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_1e6ad96140824169305d556de171d12e.vi"/>
-			<Item Name="MCStatic_36913153632_1e6ad96140824169305d556de171d12e_64F75552A8F844369C23CF330D52EDD5_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_1e6ad96140824169305d556de171d12e_64F75552A8F844369C23CF330D52EDD5.lvgen/MCStatic_36913153632_1e6ad96140824169305d556de171d12e_64F75552A8F844369C23CF330D52EDD5_000.vi"/>
-			<Item Name="MCStatic_36913153632_4a49c84bbcd428c212b20195cbe8b035.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_4a49c84bbcd428c212b20195cbe8b035.vi"/>
-			<Item Name="MCStatic_36913153632_4a49c84bbcd428c212b20195cbe8b035_991BF795119A46088146E750DEF0BE67_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_4a49c84bbcd428c212b20195cbe8b035_991BF795119A46088146E750DEF0BE67.lvgen/MCStatic_36913153632_4a49c84bbcd428c212b20195cbe8b035_991BF795119A46088146E750DEF0BE67_000.vi"/>
-			<Item Name="MCStatic_36913153632_4de716850640586bd02f98b625ef993e.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_4de716850640586bd02f98b625ef993e.vi"/>
-			<Item Name="MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8.lvgen/MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8_000.vi"/>
-			<Item Name="MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8.lvgen/MCStatic_36913153632_4de716850640586bd02f98b625ef993e_4E7D4A7640E146149C2F9063A07B5FB8_001.vi"/>
-			<Item Name="MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4.vi"/>
-			<Item Name="MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8.lvgen/MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8_000.vi"/>
-			<Item Name="MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8.lvgen/MCStatic_36913153632_74b80caf5031e046e71450c869b25ac4_EBBE0D165A1844C19D15217B3971A6C8_001.vi"/>
-			<Item Name="MCStatic_36913153632_768d10d24ec5cae2ef0a1ce42dd6f61b.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_768d10d24ec5cae2ef0a1ce42dd6f61b.vi"/>
-			<Item Name="MCStatic_36913153632_768d10d24ec5cae2ef0a1ce42dd6f61b_42FB18720A4D4D57895E758F2AD9E816_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_768d10d24ec5cae2ef0a1ce42dd6f61b_42FB18720A4D4D57895E758F2AD9E816.lvgen/MCStatic_36913153632_768d10d24ec5cae2ef0a1ce42dd6f61b_42FB18720A4D4D57895E758F2AD9E816_000.vi"/>
-			<Item Name="MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197.vi"/>
-			<Item Name="MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12.lvgen/MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12_000.vi"/>
-			<Item Name="MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12.lvgen/MCStatic_36913153632_6298f8f6c83752723d2226ea016fc197_3642FD24B40E4351BB90101570A96C12_001.vi"/>
-			<Item Name="MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570.vi"/>
-			<Item Name="MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924.lvgen/MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924_000.vi"/>
-			<Item Name="MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924.lvgen/MCStatic_36913153632_a7ddd08330f9b3077b19931b3d4ed570_A5488D48717747F080A6F4A94BE5B924_001.vi"/>
-			<Item Name="MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce.vi"/>
-			<Item Name="MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB.lvgen/MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB_000.vi"/>
-			<Item Name="MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB.lvgen/MCStatic_36913153632_b1439afdde66222fcd04c55d7a6778ce_EEE05774F8294989AC0FB7279B922BFB_001.vi"/>
-			<Item Name="MCStatic_36913153632_be44ae6048cc796b65fe61fbcc6124bb.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_be44ae6048cc796b65fe61fbcc6124bb.vi"/>
-			<Item Name="MCStatic_36913153632_be44ae6048cc796b65fe61fbcc6124bb_299CCFB54962426892AA262595275464_000.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_be44ae6048cc796b65fe61fbcc6124bb_299CCFB54962426892AA262595275464.lvgen/MCStatic_36913153632_be44ae6048cc796b65fe61fbcc6124bb_299CCFB54962426892AA262595275464_000.vi"/>
 			<Item Name="nidnp3lvapi.dll" Type="Document" URL="/&lt;nishared&gt;/DNP3/nidnp3lvapi.dll"/>
 			<Item Name="nidnp3lvapi_master.dll" Type="Document" URL="/&lt;nishared&gt;/DNP3/nidnp3lvapi_master.dll"/>
 		</Item>
@@ -4433,6 +4412,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8.vi" Type="VI" URL="../../../LabVIEW Data/MathScriptVIs/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8.vi"/>
+			<Item Name="MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_001.vi" Type="VI" URL="/&lt;instcachedir&gt;/0/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86.lvgen/MCStatic_36913153632_137dbbc8b62ff179ad17ce13afb809c8_7337D6D141B744C0ACEB8CFFCA4DAD86_001.vi"/>
 			<Item Name="MGCC_MdlMgmt_string_to_complex.vi" Type="VI" URL="../Model Management/Sub-VIs/MGCC_MdlMgmt_string_to_complex.vi"/>
 			<Item Name="MGCC_StaEst_load_complex.vi" Type="VI" URL="../State Estimation/Sub-VIs/MGCC_StaEst_load_complex.vi"/>
 			<Item Name="nidnp3lvapi.dll" Type="Document" URL="/&lt;nishared&gt;/DNP3/nidnp3lvapi.dll"/>
