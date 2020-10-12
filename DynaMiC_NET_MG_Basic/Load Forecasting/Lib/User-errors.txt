@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="Load forecast errors" displayname="Load forecast errors">
+</nifamily>
+</nicomment>
+<nierror code="5501">
+The recorded historical load data may not be long enough for forecasting.
+</nierror>
+<nierror code="5502">
+Forecast results may be inaccurate.
+</nierror>
+</nidocument>

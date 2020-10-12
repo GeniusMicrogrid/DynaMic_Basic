@@ -1,0 +1,15 @@
+[LC1]
+LC1 = "10.38.59.111"
+
+[LC2]
+LC2 = "10.38.59.112"
+
+[MGCC]
+MGCC = "10.38.59.110"
+
+[My Computer]
+My Computer = "192.168.175.1"
+
+[Relay Control]
+Relay Control = "48.26.87.211"
+
