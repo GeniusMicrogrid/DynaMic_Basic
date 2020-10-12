@@ -1,0 +1,7 @@
+0	LC_Status
+1	LC_Pwr
+2	LC_Re_Pwr
+3	LC_Vol
+4	LC_Freq
+5	LC_BESS_SOC
+6	LC_Error
