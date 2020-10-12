@@ -1,0 +1,16 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+LC_Status_Cmd,Double,Network,on,FALSE,FALSE
+LC_Pwr_Ref,Double,Network,on,FALSE,FALSE
+LC_Re_Pwr_Ref,Double,Network,on,FALSE,FALSE
+LC_Vol_Ref,Double,Network,on,FALSE,FALSE
+LC_Freq_Ref,Double,Network,on,FALSE,FALSE
+LC_Sync_Mag_Diff,Double,Network,on,FALSE,FALSE
+LC_Sync_Freq_Diff,Double,Network,on,FALSE,FALSE
+LC_Sync_Ang_Diff,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved9,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved10,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved11,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved12,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved13,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved14,Double,Network,on,FALSE,FALSE
+LC_Analog_Reserved15,Double,Network,on,FALSE,FALSE

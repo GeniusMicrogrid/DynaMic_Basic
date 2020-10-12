@@ -1,0 +1,10 @@
+0	LC_Status_Cmd
+1	LC_Pwr_Ref
+2	LC_Re_Pwr_Ref
+3	LC_Vol_Ref
+4	LC_Freq_Ref
+5	LC_Sync_Mag_Diff
+6	LC_Sync_Freq_Diff
+7	LC_Sync_Ang_DiffMS_Test_Analog_Control_0
+
+

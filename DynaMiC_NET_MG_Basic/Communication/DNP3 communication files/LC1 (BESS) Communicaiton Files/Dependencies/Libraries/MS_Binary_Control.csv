@@ -1,0 +1,4 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+modecontrol_cg,Boolean,Network,on,FALSE,FALSE
+referenceInput_rp,Boolean,Network,on,FALSE,FALSE
+referenceInput_rtp,Boolean,Network,on,FALSE,FALSE

@@ -1,0 +1,8 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+connectedtogrid_cg,Boolean,Network,on,FALSE,FALSE
+alarmestop_cg,Boolean,Network,on,FALSE,FALSE
+ackalarms_cg,Boolean,Network,on,FALSE,FALSE
+RealPowerPriority_cg,Boolean,Network,on,FALSE,FALSE
+enabled_pb,Boolean,Network,on,FALSE,FALSE
+online_pb,Boolean,Network,on,FALSE,FALSE
+enabled_rtp,Boolean,Network,on,FALSE,FALSE

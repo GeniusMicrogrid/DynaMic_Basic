@@ -1,0 +1,5 @@
+0	ackalarms_cg
+1	RealPowerPriority_cg
+
+
+

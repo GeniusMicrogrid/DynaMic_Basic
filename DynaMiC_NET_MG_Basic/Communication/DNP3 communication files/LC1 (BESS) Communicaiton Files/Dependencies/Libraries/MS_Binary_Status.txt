@@ -1,0 +1,7 @@
+43	connectedtogrid_cg
+44	alarmestop_cg
+10000	ackalarms_cg
+10001	RealPowerPriority_cg
+10100	enabled_pb
+10101	online_pb
+16002	enabled_rtp

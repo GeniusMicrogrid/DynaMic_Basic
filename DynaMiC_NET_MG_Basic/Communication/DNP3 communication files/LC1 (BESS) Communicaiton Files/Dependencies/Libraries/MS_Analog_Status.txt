@@ -1,0 +1,27 @@
+88	averagesoc_cg
+97	chargecapacity_cg
+98	dischargecapacity_cg
+685	totalrealpower_mr
+686	totalreactivepower_mr
+786	powerfactor_mr
+787	frequency_mr
+791	averagelinevoltage_mr
+10010	groupmode_cg
+10011	zonesonline_cg
+10012	realpowercapacity_cg
+10013	reactivepowercapacity_cg
+10016	realpoweroutput_cg
+10017	reactivepoweroutput_cg
+10018	availableenergy_cg
+10023	pchargelimit_cg
+10024	pdischargelimit_cg
+10025	qchargelimit_cg
+10026	qdischargelimit_cg
+11004	averagelinecurrent_mr
+12000	maxsoc_bz
+12001	minsoc_bz
+12002	maxtemp_bz
+12003	mintemp_bz
+12004	avgtemp_bz
+16004	commandin_rtp
+

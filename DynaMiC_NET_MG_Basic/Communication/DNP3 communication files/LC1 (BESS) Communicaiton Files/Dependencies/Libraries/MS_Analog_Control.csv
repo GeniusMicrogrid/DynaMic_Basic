@@ -1,0 +1,3 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+ackalarms_cg,Double,Network,on,FALSE,FALSE
+RealPowerPriority_cg,Double,Network,on,FALSE,FALSE

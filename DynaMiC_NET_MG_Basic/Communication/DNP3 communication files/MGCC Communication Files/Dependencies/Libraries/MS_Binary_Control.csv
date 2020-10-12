@@ -1,0 +1,11 @@
+Name,Type,VarType,Network,Network:UseBinding,Network:UseBuffering
+LC_Error_Clear,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved2,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved3,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved4,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved5,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved6,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved7,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved8,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved9,Boolean,Network,on,FALSE,FALSE
+LC_Status_Reserved10,Boolean,Network,on,FALSE,FALSE
